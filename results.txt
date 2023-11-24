@@ -2,4 +2,8 @@ Computer Name: LAPTOP-GJM0OI5U
 Date of Test: 2023-11-24 19:57:44
 Bubble Sort Time: 13.256756 seconds
 Quick Sort Time: 0.030960 seconds
+Computer Name: DESKTOP-C1EF385
+Date of Test: 2023-11-24 19:58:50
+Bubble Sort Time: 14.476356 seconds
+Quick Sort Time: 0.022004 seconds
 
